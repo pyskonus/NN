@@ -1,1 +1,1 @@
-#neural networks library. CSA project.
+# neural networks library. CSA project.
